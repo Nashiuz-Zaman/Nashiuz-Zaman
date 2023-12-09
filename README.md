@@ -1,10 +1,10 @@
 ![Github Banner Photo](./assets/banner/banner.png)
 
-### Current Stats
+# Current Stats
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nashiuz-Zaman&theme=bear&hide_border=true&border_radius=0&card_width=500)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nashiuz-Zaman&theme=bear&hide_border=true&border_radius=0&card_width=700)](https://git.io/streak-stats)
 
 </div>
 
