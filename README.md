@@ -13,7 +13,7 @@ style="width: 100%" src="https://github-readme-streak-stats.herokuapp.com?user=N
 
 </div>
 
-# Technologies I currently work with
+## My Technologies
 
 <div align="center" style="margin-bottom:3rem">
   <a style="display: flex; justify-content: center" href="https://skillicons.dev">
