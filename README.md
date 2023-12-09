@@ -37,7 +37,7 @@ style="width: 100%" src="https://github-readme-streak-stats.herokuapp.com?user=N
 
 ![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nashiuz-Zaman&theme=bear)
 
-![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nashiuz-Zaman&theme=bear&utcOffset={utcOffset})
+![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nashiuz-Zaman&theme=bear&utcOffset=6)
 
 </div>
 
