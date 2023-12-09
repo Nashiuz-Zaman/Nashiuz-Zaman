@@ -25,6 +25,22 @@ style="width: 100%" src="https://github-readme-streak-stats.herokuapp.com?user=N
 
 ![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nashiuz-Zaman&theme=bear)
 
+<div style="display:flex; justify-content: center; gap: 1rem">
+
+![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nashiuz-Zaman&theme=bear&exclude={exclude})
+
+![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nashiuz-Zaman&theme=bear&exclude={exclude})
+
+</div>
+
+<div style="display:flex; justify-content: center; gap: 1rem">
+
+![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nashiuz-Zaman&theme=bear)
+
+![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nashiuz-Zaman&theme=bear&utcOffset={utcOffset})
+
+</div>
+
 </div>
 
 <!--
