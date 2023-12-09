@@ -3,9 +3,8 @@
 # Current Stats
 
 <div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nashiuz-Zaman&theme=bear&hide_border=true&border_radius=0&card_width=700)](https://git.io/streak-stats)
-
+<a href="https://git.io/streak-stats"><img 
+style="width:100%;" src="https://github-readme-streak-stats.herokuapp.com?user=Nashiuz-Zaman&theme=buefy-dark&hide_border=true&border_radius=0" alt="GitHub Streak" /></a>
 </div>
 
 <!--
