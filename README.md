@@ -1,10 +1,24 @@
+<div style="margin-bottom:3rem">
+
 ![Github Banner Photo](./assets/banner/banner.png)
+
+</div>
 
 # Current Stats
 
-<div align="center">
+<div align="center" style="margin-bottom:3rem" >
+
 <a href="https://git.io/streak-stats"><img
 style="width: 100%" src="https://github-readme-streak-stats.herokuapp.com?user=Nashiuz-Zaman&theme=buefy-dark&hide_border=true&border_radius=0&background=EB545400" alt="GitHub Streak" /></a>
+
+</div>
+
+# Technologies I currently work with
+
+<div align="center" style="margin-bottom:3rem">
+  <a style="display: flex; justify-content: center" href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,react,redux,tailwind,sass,firebase,express,mongodb,js,php,mysql,html,css,postman&perline=5" />
+  </a>
 </div>
 
 <!--
