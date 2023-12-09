@@ -41,6 +41,16 @@ style="width: 100%" src="https://github-readme-streak-stats.herokuapp.com?user=N
 
 </div>
 
+<!-- Create a container to hold the cards -->
+<div style="display: flex; justify-content: space-between;">
+
+  <!-- First GitHub Profile Summary Card -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nashiuz-Zaman&theme=bear&utcOffset=6" alt="GitHub Profile Summary Card 1" width="400"/>
+
+  <!-- Second GitHub Profile Summary Card -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repository-details?username=Nashiuz-Zaman&theme=default" alt="GitHub Profile Summary Card 2" width="400"/>
+</div>
+
 </div>
 
 <!--
