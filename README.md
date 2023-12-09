@@ -23,7 +23,7 @@ style="width: 100%" src="https://github-readme-streak-stats.herokuapp.com?user=N
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Nashiuz-Zaman}&theme={bear})
+![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nashiuz-zaman&theme=bear)
 
 </div>
 
