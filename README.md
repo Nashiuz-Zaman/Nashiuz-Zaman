@@ -1,4 +1,6 @@
-### Hi there 👋
+# Welcome 👋
+
+![Github Banner Photo](./assets/banner/banner.png)
 
 <!--
 **Nashiuz-Zaman/Nashiuz-Zaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
