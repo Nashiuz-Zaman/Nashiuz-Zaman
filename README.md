@@ -2,7 +2,11 @@
 
 ### Current Stats
 
+<div align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nashiuz-Zaman&theme=bear&hide_border=true&border_radius=0&card_width=500)](https://git.io/streak-stats)
+
+</div>
 
 <!--
 **Nashiuz-Zaman/Nashiuz-Zaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
