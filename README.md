@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hello, my name is Nashiuz Zaman. I'm a junior MERN stack developer who primarily develops fully responsive websites using React JS, Redux toolkit, Tanstack Query, Tailwind CSS, Sass, Firebase Authentication, Express JS, MongoDB and Mongoose. I also possess moderate server-side development skills in Vanilla PHP and MySQL. I am proficient in Object Oriented Programming with both JavaScript and PHP.
+Hello, my name is Nashiuz Zaman. I'm a junior React.js developer who primarily develops fully responsive websites using React JS, Redux toolkit, Tanstack Query, Tailwind CSS, Sass, Firebase Authentication, Express JS, MongoDB and Mongoose. I also possess moderate server-side development skills in Vanilla PHP and MySQL. I am proficient in Object Oriented Programming with both JavaScript and PHP.
 
 🔭 I’m currently working on - Apartment Complex Management System
 
