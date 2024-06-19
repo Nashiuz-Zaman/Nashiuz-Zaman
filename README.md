@@ -53,7 +53,7 @@ style="width: 100%" src="https://github-readme-streak-stats.herokuapp.com?user=N
 
 ## Used Languages
 
-<p style="width: 60%; margin-bottom: 3rem; padding-top: 2rem;"><img style="width: 100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nashiuz-Zaman&show_icons=true&locale=en&layout=donut" alt="Nashiuz-Zaman" /></p>
+<p style="width: 60%; margin-bottom: 3rem; padding-top: 2rem;"><img style="width: 100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nashiuz-Zaman&show_icons=true&locale=en&layout=compact" alt="Nashiuz-Zaman" /></p>
 
 <!--
 **Nashiuz-Zaman/Nashiuz-Zaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
