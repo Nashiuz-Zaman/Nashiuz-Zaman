@@ -25,10 +25,6 @@ style="width: 100%" src="https://github-readme-streak-stats.herokuapp.com?user=N
 
 </div>
 
-## Used Languages
-
-<p style="width: 60%; margin-bottom: 3rem; padding-top: 2rem;"><img style="width: 100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nashiuz-Zaman&show_icons=true&locale=en&layout=donut" alt="Nashiuz-Zaman" /></p>
-
 ## My Technologies
 
 <div align="center" style="margin-bottom: 3rem; padding-top: 2rem;">
@@ -43,7 +39,7 @@ style="width: 100%" src="https://github-readme-streak-stats.herokuapp.com?user=N
 
 ![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nashiuz-Zaman&theme=bear)
 
-<!-- <div style="display: flex; justify-content: center; gap: 1rem;">
+<div style="display: flex; justify-content: center; gap: 1rem;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nashiuz-Zaman&theme=bear&exclude={exclude}" style="width: 45%;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nashiuz-Zaman&theme=bear&exclude={exclude}" style="width: 45%;">
 </div>
@@ -51,9 +47,13 @@ style="width: 100%" src="https://github-readme-streak-stats.herokuapp.com?user=N
 <div style="display: flex; justify-content: center; gap: 1rem;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nashiuz-Zaman&theme=bear" style="width: 45%;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nashiuz-Zaman&theme=bear&utcOffset=6" style="width: 45%;">
-</div> -->
+</div>
 
 </div>
+
+## Used Languages
+
+<p style="width: 60%; margin-bottom: 3rem; padding-top: 2rem;"><img style="width: 100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nashiuz-Zaman&show_icons=true&locale=en&layout=donut" alt="Nashiuz-Zaman" /></p>
 
 <!--
 **Nashiuz-Zaman/Nashiuz-Zaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
