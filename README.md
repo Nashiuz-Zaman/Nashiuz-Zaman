@@ -25,9 +25,13 @@ style="width: 100%" src="https://github-readme-streak-stats.herokuapp.com?user=N
 
 </div>
 
+## Used Languages
+
+<p style="width: 100%; margin-bottom: 3rem; padding-top: 2rem;"><img style="width: 100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nashiuz-Zaman&show_icons=true&locale=en&layout=compact" alt="Nashiuz-Zaman" /></p>
+
 ## My Technologies
 
-<div align="center" style="margin-bottom:3rem; padding-top: 2rem;">
+<div align="center" style="margin-bottom: 3rem; padding-top: 2rem;">
   <a style="display: flex; justify-content: center" href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,nextjs,react,redux,tailwind,sass,d3,firebase,express,mongodb,js,php,mysql,html,css,postman,git&perline=6" />
   </a>
@@ -46,7 +50,7 @@ style="width: 100%" src="https://github-readme-streak-stats.herokuapp.com?user=N
 
 <div style="display: flex; justify-content: center; gap: 1rem;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nashiuz-Zaman&theme=bear" style="width: 45%;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nashiuz-Zaman&theme=bear&utcOffset=6" style="width: 45%;">    
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nashiuz-Zaman&theme=bear&utcOffset=6" style="width: 45%;">
 </div> -->
 
 </div>
