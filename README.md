@@ -6,13 +6,13 @@
 
 ## About Me
 
-Hi, this is Nashiuz Zaman. I'm a Next JS/ React developer who primarily develops fully responsive websites using Next JS, React JS, Redux toolkit, Tanstack Query, Tailwind CSS, Sass, Firebase Authentication, Express JS, MongoDB and Mongoose. I also possess moderate server-side development skills in Vanilla PHP and MySQL. I am comfortable in Object Oriented Programming with both JavaScript and PHP.
+Hi, this is Nashiuz Zaman. I am a versatile web developer with expertise in JavaScript, TypeScript, Python and PHP. My skill set includes building dynamic web applications with Next.js, React, and Express.js, backed by MongoDB, MySQL and Firebase Authentication. I specialize in creating visually engaging interfaces using CSS, Tailwind CSS, and Sass, with advanced state management through Redux Toolkit. With proficiency in D3.js, I bring data to life with interactive and compelling visualizations. Additionally, I have experience in web scraping using JavaScript.
 
 🔭 I’m currently working on - Task Managment App
 
-🌱 I’m currently exploring - Next Js, D3.js
+🌱 I’m currently exploring - Python
 
-👯 I’m looking to collaborate on - Next JS with Express,MongoDB,Mongoose Backend/ MERN Stack projects
+👯 I’m looking to collaborate on - Fullstack projects
 
 ⚡ I'm trying - To acquire deep knowledge of web development
 
