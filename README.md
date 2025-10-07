@@ -6,15 +6,17 @@
 
 ## About Me
 
-Hi, this is Nashiuz Zaman. I am a versatile web developer with expertise in JavaScript, TypeScript, Python and PHP. My skill set includes building dynamic web applications with Next.js, React, and Express.js, backed by MongoDB, MySQL and Firebase Authentication. I specialize in creating visually engaging interfaces using CSS, Tailwind CSS, and Sass, with advanced state management through Redux Toolkit. With proficiency in D3.js, I bring data to life with interactive and compelling visualizations. Additionally, I have experience in web scraping using JavaScript.
+Hi, this is Nashiuz Zaman. I am a versatile web developer with expertise in JavaScript, TypeScript, Python. 
 
-🔭 I’m currently working on - Task Managment App
+My skill set includes building dynamic web applications with Next.js, React, and Express.js, backed by MongoDB, MySQL and Firebase Authentication. I specialize in creating visually engaging interfaces using CSS, Tailwind CSS, and Sass, with advanced state management through Redux Toolkit. With proficiency in D3.js, I bring data to life with interactive and compelling visualizations. Additionally, I have experience in web scraping using JavaScript.
 
-🌱 I’m currently exploring - Python
+🔭 I’m currently working on - Ecommerce Project
+
+🌱 I’m currently exploring - Python and Docker
 
 👯 I’m looking to collaborate on - Fullstack projects
 
-⚡ I'm trying - To acquire deep knowledge of web development
+📫 How to reach me: nashiuz.zaman@gmail.com
 
 ## Current Stats
 
