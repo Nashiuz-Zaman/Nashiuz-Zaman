@@ -31,7 +31,7 @@ style="width: 100%" src="https://github-readme-streak-stats.herokuapp.com?user=N
 
 <div align="center" style="margin-bottom: 3rem; padding-top: 2rem;">
   <a style="display: flex; justify-content: center" href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nextjs,react,redux,tailwind,sass,d3,firebase,express,mongodb,js,php,mysql,html,css,postman,git&perline=6" />
+    <img src="https://skillicons.dev/icons?i=py,ts,nextjs,react,redux,tailwind,sass,d3,firebase,express,mongodb,js,php,mysql,html,css,postman,git&perline=6" />
   </a>
 </div>
 
