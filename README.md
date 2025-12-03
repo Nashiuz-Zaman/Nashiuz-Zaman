@@ -16,7 +16,7 @@ My skill set includes building dynamic web applications with Next.js, React, and
 
 👯 I’m looking to collaborate on - Fullstack projects
 
-📫 How to reach me: nashiuz.zaman@gmail.com
+📫 How to reach me: nashiuz.zaman.official@gmail.com
 
 ## Current Stats
 
