@@ -8,13 +8,15 @@
 
 Hello, I’m a web developer who builds modern, responsive applications using JavaScript and TypeScript. I work mainly with Next.js, React, Express, and MongoDB to create smooth user experiences on both the frontend and backend. I enjoy making clean UIs with Tailwind and managing state with Redux Toolkit. I’ve also worked with tools like Puppeteer, Cloudinary, Firebase Auth, and GSAP. Besides web development, I have experience with automation, web scraping, and Shopify theme work. I like solving real problems and turning ideas into working products.
 
-🔭 I’m currently working on - Nothing
+<!-- 🔭 I’m currently working on - Nothing -->
 
-🌱 I’m currently exploring - Docker and PostgreSQL
+🌱 I’m currently learning - Prisma
 
 👯 I’m looking to collaborate on - Fullstack projects
 
 📫 How to reach me: nashiuz.zaman.official@gmail.com
+
+⌛ Future plans: Learn C, DSA, Django, FastAPI
 
 ## Current Stats
 
