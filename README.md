@@ -10,9 +10,9 @@ Hello, I’m a web developer who builds modern, responsive applications using Ja
 
 <!-- 🔭 I’m currently working on - Nothing -->
 
-🌱 I’m currently learning - Prisma
+<!-- 🌱 I’m currently learning - Prisma
 
-👯 I’m looking to collaborate on - Fullstack projects
+👯 I’m looking to collaborate on - Fullstack projects -->
 
 📫 How to reach me: nashiuz.zaman.official@gmail.com
 
