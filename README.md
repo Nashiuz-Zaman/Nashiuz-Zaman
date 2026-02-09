@@ -11,7 +11,9 @@
   </a>
 </div>
 
-## 🚀 About Me
+<div align="left">
+  <h2 style="border-bottom: none;">🚀 About Me</h2>
+</div>
 
 I am a **Full-Stack Developer** specializing in building high-performance, modern web applications. With a core focus on **TypeScript, Next.js, and the MERN stack**, I bridge the gap between complex backend logic and intuitive, high-fidelity user interfaces.
 
@@ -19,7 +21,9 @@ Beyond standard web development, I thrive on solving niche technical challenges�
 
 ---
 
-## 🛠 My Technologies
+<div align="left">
+  <h2 style="border-bottom: none;">🛠 My Technologies</h2>
+</div>
 
 ### ✍️ Languages & Core Tools
 
@@ -48,7 +52,11 @@ Beyond standard web development, I thrive on solving niche technical challenges�
 [![DND-Kit](https://img.shields.io/badge/DND--Kit-333333?style=for-the-badge)](https://dndkit.com/)
 [![SSLCommerz](https://img.shields.io/badge/SSLCommerz-00529B?style=for-the-badge)](https://www.sslcommerz.com/)
 
-## 📊 Current Stats
+---
+
+<div align="left">
+  <h2 style="border-bottom: none;">📈 Current Stats</h2>
+</div>
 
 <div align="center" style="margin-bottom: 3rem;">
   <a href="https://git.io/streak-stats">
@@ -58,37 +66,27 @@ Beyond standard web development, I thrive on solving niche technical challenges�
 
 ---
 
-## 📊 Profile Insights
+<div align="left">
+  <h2 style="border-bottom: none;">📊 Profile Insights</h2>
+</div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nashiuz-Zaman&theme=transparent" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nashiuz-Zaman&theme=apprentice" width="95%" />
   
   <br />
 
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nashiuz-Zaman&theme=transparent" width="47%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nashiuz-Zaman&theme=transparent" width="47%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nashiuz-Zaman&theme=apprentice" width="47%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nashiuz-Zaman&theme=apprentice" width="47%" />
   </div>
 
   <br />
 
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nashiuz-Zaman&theme=transparent" width="47%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nashiuz-Zaman&theme=transparent&utcOffset=6" width="47%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nashiuz-Zaman&theme=apprentice" width="47%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nashiuz-Zaman&theme=apprentice&utcOffset=6" width="47%" />
   </div>
 </div>
-
----
-
-## ⚡ GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nashiuz-Zaman&show_icons=true&locale=en&layout=compact&theme=transparent&title_color=72e23e&text_color=ffffff&hide_border=true" width="60%" />
-</div>
-
-<p align="center">
-  <i>Building the future, one commit at a time.</i>
-</p>
 
 <!--
 **Nashiuz-Zaman/Nashiuz-Zaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
