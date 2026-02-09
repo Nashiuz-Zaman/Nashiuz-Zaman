@@ -12,7 +12,7 @@
 </div>
 
 <div align="left">
-  <h2 style="border-bottom: none;">🚀 About Me</h2>
+  <h3 style="border-bottom: none;">🚀 About Me</h3>
 </div>
 
 I am a **Full-Stack Developer** specializing in building high-performance, modern web applications. With a core focus on **TypeScript, Next.js, and the MERN stack**, I bridge the gap between complex backend logic and intuitive, high-fidelity user interfaces.
@@ -22,7 +22,7 @@ Beyond standard web development, I thrive on solving niche technical challenges�
 ---
 
 <div align="left">
-  <h2 style="border-bottom: none;">🛠 My Technologies</h2>
+  <h3 style="border-bottom: none;">🛠 My Technologies</h3>
 </div>
 
 ### ✍️ Languages & Core Tools
@@ -55,7 +55,7 @@ Beyond standard web development, I thrive on solving niche technical challenges�
 ---
 
 <div align="left">
-  <h2 style="border-bottom: none;">📈 Current Stats</h2>
+  <h3 style="border-bottom: none;">📈 Current Stats</h3>
 </div>
 
 <div align="center" style="margin-bottom: 3rem;">
@@ -67,7 +67,7 @@ Beyond standard web development, I thrive on solving niche technical challenges�
 ---
 
 <div align="left">
-  <h2 style="border-bottom: none;">📊 Profile Insights</h2>
+  <h3 style="border-bottom: none;">📊 Profile Insights</h3>
 </div>
 
 <div align="center">
