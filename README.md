@@ -61,20 +61,20 @@ Beyond standard web development, I thrive on solving niche technical challengesâ
 ## ðŸ“Š Profile Insights
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nashiuz-Zaman&theme=dracula" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nashiuz-Zaman&theme=transparent" width="95%" />
   
   <br />
 
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nashiuz-Zaman&theme=dracula" width="47%" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nashiuz-Zaman&theme=dracula" width="47%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nashiuz-Zaman&theme=transparent" width="47%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nashiuz-Zaman&theme=transparent" width="47%" />
   </div>
 
   <br />
 
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nashiuz-Zaman&theme=dracula" width="47%" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nashiuz-Zaman&theme=dracula&utcOffset=6" width="47%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nashiuz-Zaman&theme=transparent" width="47%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nashiuz-Zaman&theme=transparent&utcOffset=6" width="47%" />
   </div>
 </div>
 
