@@ -12,17 +12,16 @@
 </div>
 
 <div align="left">
-  <h3 style="border-bottom: none;">🚀 About Me</h3>
+  <h2 style="border-bottom: none;">🚀 About Me</h2>
 </div>
 
 I am a **Full-Stack Developer** specializing in building high-performance, modern web applications. With a core focus on **TypeScript, Next.js, and the MERN stack**, I bridge the gap between complex backend logic and intuitive, high-fidelity user interfaces.
 
 Beyond standard web development, I thrive on solving niche technical challenges—whether it's architecting **real-time systems with Socket.io** or automating workflows via **Puppeteer** and **Python**. I don't just write code; I build products that are scalable, maintainable, and user-centric.
 
----
 
 <div align="left">
-  <h3 style="border-bottom: none;">🛠 My Technologies</h3>
+  <h2 style="border-bottom: none;">🛠 My Technologies</h2>
 </div>
 
 ### ✍️ Languages & Core Tools
@@ -52,10 +51,9 @@ Beyond standard web development, I thrive on solving niche technical challenges�
 [![DND-Kit](https://img.shields.io/badge/DND--Kit-333333?style=for-the-badge)](https://dndkit.com/)
 [![SSLCommerz](https://img.shields.io/badge/SSLCommerz-00529B?style=for-the-badge)](https://www.sslcommerz.com/)
 
----
 
 <div align="left">
-  <h3 style="border-bottom: none;">📈 Current Stats</h3>
+  <h2 style="border-bottom: none;">📈 Current Stats</h2>
 </div>
 
 <div align="center" style="margin-bottom: 3rem;">
@@ -64,10 +62,9 @@ Beyond standard web development, I thrive on solving niche technical challenges�
   </a>
 </div>
 
----
 
 <div align="left">
-  <h3 style="border-bottom: none;">📊 Profile Insights</h3>
+  <h2 style="border-bottom: none;">📊 Profile Insights</h2>
 </div>
 
 <div align="center">
