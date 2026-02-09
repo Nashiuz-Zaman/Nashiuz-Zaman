@@ -19,7 +19,6 @@ I am a **Full-Stack Developer** specializing in building high-performance, moder
 
 Beyond standard web development, I thrive on solving niche technical challenges—whether it's architecting **real-time systems with Socket.io** or automating workflows via **Puppeteer** and **Python**. I don't just write code; I build products that are scalable, maintainable, and user-centric.
 
-
 <div align="left">
   <h2 style="border-bottom: none;">🛠 My Technologies</h2>
 </div>
@@ -51,7 +50,6 @@ Beyond standard web development, I thrive on solving niche technical challenges�
 [![DND-Kit](https://img.shields.io/badge/DND--Kit-333333?style=for-the-badge)](https://dndkit.com/)
 [![SSLCommerz](https://img.shields.io/badge/SSLCommerz-00529B?style=for-the-badge)](https://www.sslcommerz.com/)
 
-
 <div align="left">
   <h2 style="border-bottom: none;">📈 Current Stats</h2>
 </div>
@@ -61,7 +59,6 @@ Beyond standard web development, I thrive on solving niche technical challenges�
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Nashiuz-Zaman&theme=transparent&hide_border=true&stroke=72e23e&ring=72e23e&fire=72e23e&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=72e23e" alt="GitHub Streak" style="width: 100%; max-width: 800px;" />
   </a>
 </div>
-
 
 <div align="left">
   <h2 style="border-bottom: none;">📊 Profile Insights</h2>
