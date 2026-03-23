@@ -1,4 +1,4 @@
-<div align="center" style="margin-bottom: 2rem;">
+<div align="center">
   <img src="./assets/banner/banner.webp" alt="Nashi Uz Zaman Banner" width="100%" />
 </div>
 
