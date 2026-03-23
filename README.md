@@ -2,7 +2,7 @@
   <img src="./assets/banner/banner.webp" alt="Nashi Uz Zaman Banner" width="100%" />
 </div>
 
-<div align="center" style="margin-bottom: 3rem; margin-top: 2rem;">
+<div align="center" style="margin-bottom: 3rem; margin-top: 3rem;">
   <a href="mailto:nashiuz.zaman.official@gmail.com">
     <img src="https://img.shields.io/badge/Email-nashiuz.zaman.official@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
