@@ -1,8 +1,10 @@
-<div align="center" style="margin-bottom: 4rem;">
+<div align="center">
   <img src="./assets/banner/banner.webp" alt="Nashi Uz Zaman Banner" width="100%" />
 </div>
-
-<div align="center" style="margin-bottom: 3rem;">
+<br/>
+<br/>
+<br/>
+<div align="center">
   <a href="mailto:nashiuz.zaman.official@gmail.com">
     <img src="https://img.shields.io/badge/Email-nashiuz.zaman.official@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -10,14 +12,24 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
-
+<br/>
+<br/>
+<br/>
 <div align="left">
   <h2 style="border-bottom: none;">🚀 About Me</h2>
 </div>
 
-I am a **Full-Stack Developer** specializing in building high-performance, modern web applications. With a core focus on **TypeScript, Next.js, and the MERN stack**, I bridge the gap between complex backend logic and intuitive, high-fidelity user interfaces.
+I'm a 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 who builds clean, modern, reusable UI and scalable, modular server-side systems. Also love to write Python scripts for automating data flow.
 
-Beyond standard web development, I thrive on solving niche technical challenges—whether it's architecting **real-time systems with Socket.io** or automating workflows via **Puppeteer** and **Python**. I don't just write code; I build products that are scalable, maintainable, and user-centric.
+𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀: TypeScript, JavaScript, Python <br/>
+𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱: React, Next.js, Redux Toolkit, React Hook Form, GSAP, Swiper.js, Apex Charts, DND Kit, Tailwind CSS, SASS, Three.js, HTML, CSS<br/>
+𝗕𝗮𝗰𝗸𝗲𝗻𝗱: Node.js, Express.js, Socket.io, JWT, Nodemailer, Puppeteer<br/>
+𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀: MongoDB, PostgreSQL, Mongoose, Prisma<br/>
+𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲𝘀: Clean Architecture, Modular Monolith<br/>
+𝗗𝗲𝘀𝗶𝗴𝗻 𝗔𝗽𝗽𝗿𝗼𝗮𝗰𝗵𝗲𝘀: Vertical Slice Architecture<br/>
+𝗪𝗼𝗿𝗸𝗳𝗹𝗼𝘄: Agile<br/>
+𝗘𝘅𝘁𝗲𝗿𝗻𝗮𝗹 𝗪𝗲𝗯: Firebase, Cloudinary, Shopify API, SSLCommerz<br/>
+𝗧𝗼𝗼𝗹𝘀: Git, GitHub, Postman, Docker, Koala, ChatGPT, Gemini, Claude, Canva AI, Cursor<br/>
 
 <div align="left">
   <h2 style="border-bottom: none;">🛠 My Technologies</h2>
