@@ -19,17 +19,8 @@
   <h2 style="border-bottom: none;">🚀 About Me</h2>
 </div>
 
-I'm a 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 who builds clean, modern, reusable UI and scalable, modular server-side systems. Also love to write Python scripts for automating data flow.
+I'm a 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 who builds modern, reusable user interfaces and scalable, modular monolith server-side systems. I also love to write Python scripts for automating data flow.
 
-𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀: TypeScript, JavaScript, Python <br/>
-𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱: React, Next.js, Redux Toolkit, React Hook Form, GSAP, Swiper.js, Apex Charts, DND Kit, Tailwind CSS, SASS, Three.js, HTML, CSS<br/>
-𝗕𝗮𝗰𝗸𝗲𝗻𝗱: Node.js, Express.js, Socket.io, JWT, Nodemailer, Puppeteer<br/>
-𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀: MongoDB, PostgreSQL, Mongoose, Prisma<br/>
-𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲𝘀: Clean Architecture, Modular Monolith<br/>
-𝗗𝗲𝘀𝗶𝗴𝗻 𝗔𝗽𝗽𝗿𝗼𝗮𝗰𝗵𝗲𝘀: Vertical Slice Architecture<br/>
-𝗪𝗼𝗿𝗸𝗳𝗹𝗼𝘄: Agile<br/>
-𝗘𝘅𝘁𝗲𝗿𝗻𝗮𝗹 𝗪𝗲𝗯: Firebase, Cloudinary, Shopify API, SSLCommerz<br/>
-𝗧𝗼𝗼𝗹𝘀: Git, GitHub, Postman, Docker, Koala, ChatGPT, Gemini, Claude, Canva AI, Cursor<br/>
 
 <div align="left">
   <h2 style="border-bottom: none;">🛠 My Technologies</h2>
