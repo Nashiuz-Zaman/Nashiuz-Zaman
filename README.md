@@ -19,7 +19,7 @@
   <h2 style="border-bottom: none;">🚀 About Me</h2>
 </div>
 
-I'm a 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 who builds modern, reusable user interfaces and scalable, modular monolith server-side systems. I also love to write Python scripts for automating data flow.
+Hi, I'm a 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 building reusable UIs, scalable and maintainable Modular Monolith backend systems. I also love to write Python scripts for automating data.
 
 
 <div align="left">
