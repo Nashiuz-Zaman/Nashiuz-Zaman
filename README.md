@@ -67,19 +67,19 @@ Hi, I'm a 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲�
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nashiuz-Zaman&theme=apprentice" width="95%" alt="overall summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nashiuz-Zaman&theme=apprentice" width="100%" alt="overall summary" />
 </div>
 
   <div align="center">
   <img 
     src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Nashiuz-Zaman&hide=HTML&langs_count=8&layout=compact&theme=apprentice&hide_border=true" 
     alt="top langs" 
-    width="95%" />
+    width="100%" />
 </div>
 
    <div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nashiuz-Zaman&theme=apprentice" alt="top langs by commit" width="47.5%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nashiuz-Zaman&theme=apprentice" alt="Stats" width="47.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nashiuz-Zaman&theme=apprentice" alt="top langs by commit" width="50%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nashiuz-Zaman&theme=apprentice" alt="Stats" width="50%" />
   </div>
 
 </div>
