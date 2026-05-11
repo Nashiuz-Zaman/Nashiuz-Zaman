@@ -21,7 +21,6 @@
 
 Hi, I'm a 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 building reusable UIs, scalable and maintainable Modular Monolith backend systems. I also love to write Python scripts for automating data.
 
-
 <div align="left">
   <h2 style="border-bottom: none;">🛠 My Technologies</h2>
 </div>
@@ -68,22 +67,29 @@ Hi, I'm a 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲�
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nashiuz-Zaman&theme=apprentice" width="95%" />
-  
-  <br />
-
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nashiuz-Zaman&theme=apprentice" width="47%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nashiuz-Zaman&theme=apprentice" width="47%" />
-  </div>
-
-  <br />
-
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nashiuz-Zaman&theme=apprentice" width="47%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nashiuz-Zaman&theme=apprentice&utcOffset=6" width="47%" />
-  </div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nashiuz-Zaman&theme=apprentice" width="95%" alt="overall summary" />
 </div>
+
+ <div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nashiuz-Zaman&theme=apprentice" alt="top langs by commit" width="47%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nashiuz-Zaman&theme=apprentice" alt="Stats" width="47%" />
+  
+  </div>
+  <br />
+ <div align="center">
+  <img 
+    src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Nashiuz-Zaman&hide=HTML&langs_count=8&layout=compact&theme=apprentice&hide_border=true" 
+    alt="top langs" 
+    width="95%" />
+</div> 
+</div>
+
+<!-- <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nashiuz-Zaman&theme=apprentice"
+    alt="top langs by repo"
+    style="width: 100%;"
+    height="165px"
+  /> -->
 
 <!--
 **Nashiuz-Zaman/Nashiuz-Zaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
