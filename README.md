@@ -78,8 +78,8 @@ Hi, I'm a 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲�
 </div>
 
    <div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nashiuz-Zaman&theme=apprentice" alt="top langs by commit" width="50%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nashiuz-Zaman&theme=apprentice" alt="Stats" width="50%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nashiuz-Zaman&theme=apprentice" alt="top langs by commit" width="47.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nashiuz-Zaman&theme=apprentice" alt="Stats" width="47.5%" />
   </div>
 
 </div>
