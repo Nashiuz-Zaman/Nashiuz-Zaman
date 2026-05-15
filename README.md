@@ -19,7 +19,7 @@
   <h2 style="border-bottom: none;">🚀 About Me</h2>
 </div>
 
-Hi, I'm a 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 building reusable UIs, scalable and maintainable Modular Monolith backend systems. I also love to write Python scripts for automating data.
+👋 Hi, I'm a Full Stack Web Developer building reusable UIs, scalable and maintainable Modular Monolith backend systems. I also love to write Python scripts for automating data.
 
 <div align="left">
   <h2 style="border-bottom: none;">🛠 My Technologies</h2>
@@ -78,18 +78,17 @@ Hi, I'm a 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲�
 </div>
 
    <div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nashiuz-Zaman&theme=apprentice" alt="top langs by commit" width="49.5%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nashiuz-Zaman&theme=apprentice" alt="Stats" width="49.5%" />
-  </div>
-
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nashiuz-Zaman&theme=apprentice" alt="top langs by commit" width="49.5%" />
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nashiuz-Zaman&theme=apprentice"
+      alt="top langs by repo"
+      width="49.5%"
+    />
+    </div>
 </div>
 
-<!-- <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nashiuz-Zaman&theme=apprentice"
-    alt="top langs by repo"
-    style="width: 100%;"
-    height="165px"
-  /> -->
+<!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nashiuz-Zaman&theme=apprentice" alt="Stats" width="49.5%" />
+ -->
 
 <!--
 **Nashiuz-Zaman/Nashiuz-Zaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
